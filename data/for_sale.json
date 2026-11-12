@@ -1,0 +1,122 @@
+{
+ "as_of": "2026-11-11",
+ "as_of_label": "Nov 11, 2026",
+ "scope": "Homes shown as For Sale inside Ballantrae Golf & Country Club (Hwy 48 / Aurora Rd), from public listing pages. Not a live feed.",
+ "sources": [
+  {
+   "name": "KeyHomes.ca \u2014 Ballantrae Golf Country Club listings",
+   "url": "https://www.keyhomes.ca/listings/ballantrae-golf-country-club"
+  }
+ ],
+ "notes": [
+  "26 Hagen Hollow and 156 - 146 Legendary Trail were found on KeyHomes property pages (nearby-listings blocks) rather than the community index page.",
+  "Taylor to confirm against the MLS system before launch; no live IDX feed is connected."
+ ],
+ "listings": [
+  {
+   "address": "10 Vardon Gate",
+   "postal": "L4A 1R7",
+   "price": 999000,
+   "beds": 4,
+   "baths": 4,
+   "sqft_range": "2000\u20132500",
+   "mls": "N14129404",
+   "brokerage": "RE/MAX Hallmark Realty Ltd.",
+   "model_per_remarks": "Grand Cypress",
+   "maintenance_fee_monthly": null,
+   "listed_days_before_snapshot": 5,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30458306",
+   "source": "KeyHomes.ca public listing page"
+  },
+  {
+   "address": "2 Lamb's Run",
+   "postal": "L4A 1P7",
+   "price": 1265000,
+   "beds": 3,
+   "baths": 3,
+   "sqft_range": "1500\u20132000",
+   "mls": "N14083544",
+   "brokerage": "RE/MAX Hallmark Realty Ltd.",
+   "model_per_remarks": "Augusta",
+   "maintenance_fee_monthly": 857.36,
+   "listed_days_before_snapshot": 5,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30407619",
+   "source": "KeyHomes.ca public listing page"
+  },
+  {
+   "address": "141 - 86 Legendary Trail",
+   "postal": "L4A 1N6",
+   "price": 1419000,
+   "beds": 3,
+   "baths": 3,
+   "sqft_range": "1500\u20132000",
+   "mls": "N13644818",
+   "brokerage": "RE/MAX All-Stars Realty Inc.",
+   "model_per_remarks": "Augusta",
+   "maintenance_fee_monthly": 748.85,
+   "listed_days_before_snapshot": 97,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30122106",
+   "source": "KeyHomes.ca public listing page"
+  },
+  {
+   "address": "156 - 146 Legendary Trail",
+   "postal": "L4A 1N4",
+   "price": 1468888,
+   "beds": 4,
+   "baths": 3,
+   "sqft_range": "1500\u20132000",
+   "mls": "N14152010",
+   "brokerage": "eXp Realty",
+   "model_per_remarks": null,
+   "maintenance_fee_monthly": 674.39,
+   "listed_days_before_snapshot": 6,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30482337",
+   "source": "KeyHomes.ca public listing page"
+  },
+  {
+   "address": "46 Player Place",
+   "postal": "L4A 1M1",
+   "price": 1599900,
+   "beds": 3,
+   "baths": 3,
+   "sqft_range": "2000\u20132500",
+   "mls": "N14115764",
+   "brokerage": "Right At Home Realty",
+   "model_per_remarks": "Doral",
+   "maintenance_fee_monthly": null,
+   "listed_days_before_snapshot": 16,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30442866",
+   "source": "KeyHomes.ca public listing page"
+  },
+  {
+   "address": "158 Legendary Trail",
+   "postal": "L4A 1N6",
+   "price": 1619900,
+   "beds": 2,
+   "baths": 3,
+   "sqft_range": "2000\u20132500",
+   "mls": "N13672308",
+   "brokerage": "RE/MAX Your Community Realty",
+   "model_per_remarks": "Doral",
+   "maintenance_fee_monthly": null,
+   "listed_days_before_snapshot": 90,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30152387",
+   "source": "KeyHomes.ca public listing page"
+  },
+  {
+   "address": "26 Hagen Hollow",
+   "postal": "L4A 1N3",
+   "price": 1800000,
+   "beds": 2,
+   "baths": 3,
+   "sqft_range": "1500\u20132000",
+   "mls": "N13843680",
+   "brokerage": "RE/MAX Hallmark York Group Realty Ltd.",
+   "model_per_remarks": "Castle Pines",
+   "maintenance_fee_monthly": null,
+   "listed_days_before_snapshot": 42,
+   "url": "https://www.keyhomes.ca/property/ontario/whitchurch-stouffville/30344868",
+   "source": "KeyHomes.ca public listing page"
+  }
+ ]
+}

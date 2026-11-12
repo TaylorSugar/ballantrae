@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.token
+node_modules/
+.wrangler/
+*.tgz
+
+# Private inputs kept OUT of the public repo
+*.xlsx
+*.xls
+*.pdf
+*.psd
+data/source/
+data/sales.json
+_assets/
+src_assets/
+sugarteam_raw/
+listings_raw/
+stock/
+build_v1.py
+_src-*.tgz
